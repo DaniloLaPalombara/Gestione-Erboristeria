@@ -14,7 +14,7 @@ Il sistema garantirà all’Amministratore l’accesso a funzionalità che conse
 - Gestione degli archivi
 - Gestione degli appuntamenti
 
-# Installation
+# Installatione
 
 Il software è stato sviluppato in Python con l'ausilio di PyCharm. 
 
@@ -128,4 +128,4 @@ La `Gestione Archivi` consente di:
 
 # Autori
 
-- Danilo La Palombara - [@MarcoSpina01](https://github.com/MarcoSpina01)
+- Danilo La Palombara - [@DaniloLP01](https://github.com/DaniloLP01)
