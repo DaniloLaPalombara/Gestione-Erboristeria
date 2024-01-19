@@ -36,7 +36,7 @@ Per installare installare il progetto su PyCharm:
 # Caratteristiche
 ## Gestione Erboristeria -  LOGIN
 <p align="center">
-  <img  src="immagini_readme/loginRM.png"
+  <img  src="immagini_readme/loginRM.png">
 </p>
 
 **CREDENZIALI:** <br>
@@ -46,7 +46,7 @@ Per installare installare il progetto su PyCharm:
 La schermata di `Login` consente all'Amministratore di accedere al menù ed in caso di problematiche è garantita la possibilità di contattare l'assistenza.
 ## Gestione Erboristeria - MENU'
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/funzionalita.png">
+  <img  src="immagini_readme/homeRM.png">
 </p>
 
 In seguito al login si accede al `menu delle funzionalità` attraverso il quale è possibile selezionare a quale schermata accedere e quali operazioni effettuare. 
