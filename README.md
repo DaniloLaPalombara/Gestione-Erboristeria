@@ -64,7 +64,7 @@ La `Gestione Appuntamenti` consente di:
 
 ## Gestione Erboristeria - MAGAZZINO
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/magazzino.png">
+  <img  src="immagini_readme/magazzinoRM.png">
  </p>
 
 Il `menu Magazzino` consente di:
