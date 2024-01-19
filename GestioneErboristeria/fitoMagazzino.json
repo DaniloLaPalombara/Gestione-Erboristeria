@@ -1,0 +1,30 @@
+[
+    {
+        "codice": "FM001",
+        "nome": "Tisana Detox",
+        "quantita": 36,
+        "prezzo": 3.99,
+        "categoria": "Tisane"
+    },
+    {
+        "codice": "FM002",
+        "nome": "Olio Essenziale Eucalipto",
+        "quantita": 25,
+        "prezzo": 6.99,
+        "categoria": "Oli Essenziali"
+    },
+    {
+        "codice": "FM003",
+        "nome": "Crema Corpo Aloe Vera",
+        "quantita": 50,
+        "prezzo": 8.99,
+        "categoria": "Creme Corpo"
+    },
+    {
+        "codice": "FM004",
+        "nome": "Shampoo Antiforfora",
+        "quantita": 30,
+        "prezzo": 5.49,
+        "categoria": "Prodotti per Capelli"
+    }
+]

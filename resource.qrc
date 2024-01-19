@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="no">
+    <file>loghi-icone/herbalife.jpg</file>
+    <file>loghi-icone/Menu.jpeg</file>
+    <file>loghi-icone/logo2.png</file>
+    <file>loghi-icone/fornitori (1).jpg</file>
+    <file>loghi-icone/abros.jpg</file>
+    <file>loghi-icone/iconaregistrazione.PNG</file>
+    <file>loghi-icone/iconadollaro.PNG</file>
+    <file>loghi-icone/logoerboristeria.png</file>
+    <file>loghi-icone/iconacarrello.PNG</file>
+    <file>loghi-icone/sfondoangelini.PNG</file>
+    <file>loghi-icone/sfondofornitori.PNG</file>
+    <file>loghi-icone/sfondopfizer.PNG</file>
+    <file>loghi-icone/iconaindietro.PNG</file>
+    <file>loghi-icone/iconalente.PNG</file>
+    <file>loghi-icone/sfondomagazzino.PNG</file>
+    <file>loghi-icone/iconahome.PNG</file>
+    <file>loghi-icone/iconatampone.PNG</file>
+    <file>loghi-icone/schermatamenu.PNG</file>
+    <file>loghi-icone/logofarmacia.PNG</file>
+    <file>loghi-icone/iconalogout.PNG</file>
+    <file>loghi-icone/iconaarchivio.PNG</file>
+    <file>loghi-icone/iconamagazzino.PNG</file>
+    <file>loghi-icone/iconacalendario.PNG</file>
+    <file>loghi-icone/iconacassa.PNG</file>
+  </qresource>
+</RCC>

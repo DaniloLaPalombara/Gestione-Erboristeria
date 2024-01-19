@@ -1,0 +1,20 @@
+[
+    {
+        "codice": "O001",
+        "fornitore": "Herbalife",
+        "totale": 500.0,
+        "data": "2024-01-10"
+    },
+    {
+        "codice": "O002",
+        "fornitore": "Abros",
+        "totale": 750.0,
+        "data": "2024-01-15"
+    },
+    {
+        "codice": "O003",
+        "fornitore": "Erbecedario",
+        "totale": 300.0,
+        "data": "2024-01-19"
+    }
+]

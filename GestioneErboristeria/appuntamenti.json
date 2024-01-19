@@ -1,0 +1,32 @@
+[
+    {
+        "id_appuntamento": 1,
+        "data": "2024-01-20",
+        "cliente": {
+            "nome": "Mario",
+            "cognome": "Rossi",
+            "cf": "MROSSI12345"
+        },
+        "concluso": false
+    },
+    {
+        "id_appuntamento": 2,
+        "data": "2024-01-21",
+        "cliente": {
+            "nome": "Luigi",
+            "cognome": "Bianchi",
+            "cf": "LBIAN12345"
+        },
+        "concluso": true
+    },
+    {
+        "id_appuntamento": 3,
+        "data": "2024-03-21",
+        "cliente": {
+            "nome": "Luca",
+            "cognome": "Verdi",
+            "cf": "LVERDI12345"
+        },
+        "concluso": true
+    }
+]

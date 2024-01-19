@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogCalendario</class>
+ <widget class="QDialog" name="DialogCalendario">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1185</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#DialogCalendario{
+background-color: rgb(85, 255, 127);}</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>120</y>
+     <width>971</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 36pt &quot;MS Shell Dlg 2&quot;;color:rgb(255, 255, 255)</string>
+   </property>
+   <property name="text">
+    <string>CALENDARIO        APPUNTAMENTI</string>
+   </property>
+  </widget>
+  <widget class="QCalendarWidget" name="calendarWidget">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>210</y>
+     <width>451</width>
+     <height>471</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="nuovoappbtn">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>470</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+   </property>
+   <property name="text">
+    <string>Nuovo Appuntamento</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="AppuntamentiTable">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>210</y>
+     <width>501</width>
+     <height>231</height>
+    </rect>
+   </property>
+   <column>
+    <property name="text">
+     <string>Codice</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>CF</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Data</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Stato</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QComboBox" name="ricercaappCombo">
+   <property name="geometry">
+    <rect>
+     <x>530</x>
+     <y>580</y>
+     <width>161</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="showdate_2">
+   <property name="geometry">
+    <rect>
+     <x>530</x>
+     <y>540</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>9</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Ricerca per:</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="chiudiappbtn">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>470</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+   </property>
+   <property name="text">
+    <string>Chiudi Appuntamento</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="eliminaappbtn">
+   <property name="geometry">
+    <rect>
+     <x>930</x>
+     <y>470</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>8</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));
+</string>
+   </property>
+   <property name="text">
+    <string>Elimina Appuntamento</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="homebtn">
+   <property name="geometry">
+    <rect>
+     <x>910</x>
+     <y>640</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));
+</string>
+   </property>
+   <property name="text">
+    <string>Home</string>
+   </property>
+   <property name="icon">
+    <iconset resource="../resource.qrc">
+     <normaloff>:/no/loghi-icone/iconahome.PNG</normaloff>:/no/loghi-icone/iconahome.PNG</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>40</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="statistichebtn">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>640</y>
+     <width>171</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+   </property>
+   <property name="text">
+    <string>Visualizza statistiche esiti</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>

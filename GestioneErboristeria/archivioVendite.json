@@ -1,0 +1,41 @@
+[
+    {
+        "codice": "V001",
+        "totale": 150.5,
+        "data": "2024-01-01",
+        "prodotti_venduti": [
+            {
+                "codice": "P001",
+                "quantita": 2,
+                "prezzo_unitario": 50.0
+            },
+            {
+                "codice": "P002",
+                "quantita": 1,
+                "prezzo_unitario": 50.5
+            }
+        ]
+    },
+    {
+        "codice": "V002",
+        "totale": 200.0,
+        "data": "2024-01-02",
+        "prodotti_venduti": [
+            {
+                "codice": "P003",
+                "quantita": 4,
+                "prezzo_unitario": 50.0
+            }
+        ]
+    },
+    {
+        "codice": "474630",
+        "totale": "7.98",
+        "data": "2024-01-18"
+    },
+    {
+        "codice": 569878,
+        "totale": "7.98",
+        "data": "2024-01-18"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "codice": "P001",
+        "nome": "Crema Viso Idratante",
+        "fornitore": "Herbalife",
+        "prezzo": 19.99,
+        "quantita": 50
+    },
+    {
+        "codice": "P002",
+        "nome": "Shampoo Rinforzante",
+        "fornitore": "Abros",
+        "prezzo": 12.50,
+        "quantita": 75
+    },
+    {
+        "codice": "P003",
+        "nome": "Integratore Vitamina C",
+        "fornitore": "Erbecedario",
+        "prezzo": 15.00,
+        "quantita": 100
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "codice": "P001",
+        "nome": "Aspirina",
+        "quantita": 100,
+        "prezzo": 4.99,
+        "categoria": "Farmaci da banco"
+    },
+    {
+        "codice": "P002",
+        "nome": "Caramelle propoli",
+        "quantita": 50,
+        "prezzo": 9.99,
+        "categoria": "Integratori"
+    },
+    {
+        "codice": "P003",
+        "nome": "Gel Disinfettante",
+        "quantita": 150,
+        "prezzo": 2.99,
+        "categoria": "Prodotti Igienici"
+    }
+]

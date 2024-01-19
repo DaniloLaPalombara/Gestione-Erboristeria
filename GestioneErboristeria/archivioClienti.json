@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "cf": "RSSMRA80A01H501U",
+        "eta": 42,
+        "email": "mario.rossi@email.it",
+        "sesso": "Maschio",
+        "indirizzo": "Via Roma, 10, Roma"
+    },
+    {
+        "nome": "Luigi",
+        "cognome": "Verdi",
+        "cf": "VRDLGU75E05F205Z",
+        "eta": 47,
+        "email": "luigi.verdi@email.it",
+        "sesso": "Maschio",
+        "indirizzo": "Via Milano, 24, Milano"
+    },
+    {
+        "nome": "Anna",
+        "cognome": "Bianchi",
+        "cf": "BNCHNA68D44A001V",
+        "eta": 54,
+        "email": "anna.bianchi@email.it",
+        "sesso": "Femmina",
+        "indirizzo": "Via Torino, 33, Torino"
+    }
+]
