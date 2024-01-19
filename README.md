@@ -83,7 +83,7 @@ La `Gestione Magazzino` consente di:
 
 ### Gestione Erboristeria - MAGAZZINO - FORNITORI 
 <p align="center">
-  <img  src="immagini_readme/abrosRM.png">
+  <img  src="immagini_readme/sceltaFornRM.png">
  </p>
 
 
