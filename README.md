@@ -128,4 +128,4 @@ La `Gestione Archivi` consente di:
 
 # Autori
 
-- Danilo La Palombara - [@DaniloLP01](https://github.com/DaniloLP01)
+- Danilo La Palombara - [@DaniloLP01](https://github.com/DaniloLaPalombara)
