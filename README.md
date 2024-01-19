@@ -118,7 +118,7 @@ La sezione `Cassa` consente di:
 
 ## Gestione Erboristeria - ARCHIVIO
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/archivi.png">
+  <img  src="immagini_readme/archivioRM.png">
  </p>
 
 
