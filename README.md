@@ -1,7 +1,7 @@
 # *GESTIONE ERBORISTERIA*
 
 
-![N|Solid](https://www.boomerangcard.it/it/uploads/esercente/54/logo.png)
+![N|Solid](immagini_readme/logo2.png)
 
 
 Il progetto si propone di modellare un sistema informatico per la gestione di una farmacia.
