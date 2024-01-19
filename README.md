@@ -105,7 +105,7 @@ La sezione `Effettua Ordine` consente di:
 
 ### Gestione Erboristeria - CASSA 
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/cassa.png">
+  <img  src="immagini_readme/cassaRM.png">
  </p>
 
 
