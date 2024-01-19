@@ -84,7 +84,6 @@ La `Gestione Magazzino` consente di:
 ### Gestione Erboristeria - MAGAZZINO - FORNITORI 
 <p align="center">
   <img  src="immagini_readme/abrosRM.png">
-  <img  src="immagini_readme/abrosRM.png">
  </p>
 
 
@@ -92,7 +91,8 @@ Il `menu di selezione fornitori` consente di selezionare il fornitore per effett
 
 ### Gestione Farmacia - MAGAZZINO - EFFETTUA ORDINE
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/pfizer.png">
+ <img  src="immagini_readme/abrosRM.png">
+ <img  src="immagini_readme/herbalifeRM.png">
  </p>
 
 
