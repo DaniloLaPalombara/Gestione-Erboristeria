@@ -36,7 +36,7 @@ Per installare installare il progetto su PyCharm:
 # Caratteristiche
 ## Gestione Erboristeria -  LOGIN
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/login.png">
+  <img  src="immagini_readme/loginRM.png"
 </p>
 
 **CREDENZIALI:** <br>
