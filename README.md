@@ -52,7 +52,7 @@ La schermata di `Login` consente all'Amministratore di accedere al menù ed in c
 In seguito al login si accede al `menu delle funzionalità` attraverso il quale è possibile selezionare a quale schermata accedere e quali operazioni effettuare. 
 ## Gestione Farmacia - APPUNTAMENTI
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/calendario.png">
+  <img  src="immagini_readme/appRM.png">
   <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/moduloregistrazione.png">
 </p>
 
