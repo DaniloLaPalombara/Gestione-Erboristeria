@@ -73,7 +73,7 @@ Il `menu Magazzino` consente di:
 
 ### Gestione Erboristeria - MAGAZZINO - VISUALIZZA MAGAZZINO
 <p align="center">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/visualmagazzino.png">
+  <img  src="immagini_readme/vediMagazzRM.png">
  </p>
 
 
