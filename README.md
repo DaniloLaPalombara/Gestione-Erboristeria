@@ -53,7 +53,7 @@ In seguito al login si accede al `menu delle funzionalità` attraverso il quale 
 ## Gestione Farmacia - APPUNTAMENTI
 <p align="center">
   <img  src="immagini_readme/appRM.png">
-  <img  src="https://github.com/MarcoSpina01/Farmacia/blob/main/immagini_readme/immagini_readme/moduloregistrazione.png">
+  <img  src="immagini_readme/registrazioneRM.png">
 </p>
 
 La `Gestione Appuntamenti` consente di:
