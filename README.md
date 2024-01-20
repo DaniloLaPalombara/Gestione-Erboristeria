@@ -4,8 +4,8 @@
 ![N|Solid](immagini_readme/logo2.png)
 
 
-Il progetto si propone di modellare un sistema informatico per la gestione di una farmacia.
-L’ipotesi di modellazione alla quale il progetto aderirà sarà quella di una farmacia rurale, il cui personale è composto unicamente dal Direttore Responsabile, addetto alla vendita di farmaci e all’esecuzione di tamponi. 
+Il progetto si propone di modellare un sistema informatico per la gestione di una erboristeria.
+L’ipotesi di modellazione alla quale il progetto aderirà sarà quella di una erboristeria, il cui personale è composto unicamente dal Direttore Responsabile, addetto alle consulenze personalizzate per il cliente ed alla vendita di prodotti fitoterapici e non. 
 
 Il sistema garantirà all’Amministratore l’accesso a funzionalità che consentono la gestione di una serie di operazioni quali:
 - Gestione cassa
